@@ -47,8 +47,7 @@ More details → **[alexrubio.dev](https://alexrubio.dev)**
 ### GitHub vibes
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Alexrb11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,issues" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexrb11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Alexrb11&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" alt="GitHub stats" />
 </p>
 
 ---
