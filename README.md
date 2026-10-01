@@ -44,14 +44,6 @@ More details → **[alexrubio.dev](https://alexrubio.dev)**
 
 ---
 
-### GitHub vibes
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Alexrb11&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues" alt="GitHub stats" />
-</p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=480&lines=Let's+build+something+cool;Open+to+opportunities+%26+freelance" alt="Let's talk" />
 </p>
