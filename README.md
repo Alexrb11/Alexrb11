@@ -32,13 +32,13 @@ More details → **[alexrubio.dev](https://alexrubio.dev)**
 
 ---
 
-### What I'm building
+### Selected projects
 
 | | Project | About |
 | :---: | --- | --- |
-| 🤖 | **[Monitor OVH VPS](https://t.me/ovh_vps_lxr_bot)** | Telegram bot that watches OVH VPS stock and sends alerts |
-| 🏢 | **SaaS Multi-Tenant** | Academy management SPA · Vue 3 · TypeScript · Node · PostgreSQL |
-| 🦎 | **Reptile Social App** | Collections, transfer traceability & geo shop directory |
+| 🍽️ | **[SoyCarta](https://soycarta.es)** | Multi-tenant digital menus for hospitality · Astro, Vue 3, Node.js, PostgreSQL · in production |
+| ⚽ | **[BidFantasy](https://bidfantasy.alexrubio.dev)** | Biwenger auction assistant with explainable bid recommendations and adjustable risk · in testing |
+| 🤖 | **[OVH VPS Monitor](https://t.me/ovh_vps_lxr_bot)** | Telegram bot that monitors OVH VPS availability and sends stock and change alerts |
 
 → More on **[alexrubio.dev/#projects](https://alexrubio.dev/#projects)**
 
