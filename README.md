@@ -1,12 +1,13 @@
 <!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=false&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex+Rubio;Full-Stack+Developer;Vue+3+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Laravel;Building+ideas+at+alexrubio.dev)](https://alexrubio.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=false&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex+Rubio;Full-Stack+%C2%B7+Backend;Vue+3+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MongoDB;Building+ideas+at+alexrubio.dev)](https://alexrubio.dev)
 
-**Full-Stack Developer** from Salamanca, Spain · 3+ years in production  
-Currently at **BISITE Research** (USAL) · Open to jobs, freelance & landings
+**Full-Stack Developer** based in Salamanca, Spain, with 3+ years of web development experience.  
+**Open to full-time full-stack and backend roles.** Remote from Spain or hybrid in Castilla y León.
 
 <p>
   <a href="https://alexrubio.dev"><img src="https://img.shields.io/badge/Portfolio-alexrubio.dev-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://alexrubio.dev/cv/AlexRubio_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
+  <a href="https://alexrubio.dev/cv/AlexRubio_CV.pdf"><img src="https://img.shields.io/badge/CV-ES-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV en español" /></a>
+  <a href="https://alexrubio.dev/cv/AlexRubio_CV_EN.pdf"><img src="https://img.shields.io/badge/CV-EN-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV in English" /></a>
   <img src="https://komarev.com/ghpvc/?username=Alexrb11&style=flat-square&color=38bdf8" alt="Profile views" />
 </p>
 
@@ -14,7 +15,7 @@ Currently at **BISITE Research** (USAL) · Open to jobs, freelance & landings
 
 ### About me
 
-I build APIs, SPAs and end-to-end platforms — from data model to UI — with focus on clean code, QA and shipping.
+At **BISITE Research** (University of Salamanca), I build APIs and web interfaces with TypeScript, Node.js, Express, MongoDB and Vue 3. I use AI agents, workflows and skills in Cursor and Codex every day.
 
 More details → **[alexrubio.dev](https://alexrubio.dev)**
 
@@ -24,7 +25,7 @@ More details → **[alexrubio.dev](https://alexrubio.dev)**
 
 #### Core
 
-[![Core stack](https://skillicons.dev/icons?i=vue,ts,nodejs,laravel,postgres,tailwind,express,vite,git)](https://alexrubio.dev)
+[![Core stack](https://skillicons.dev/icons?i=vue,ts,nodejs,express,mongodb,laravel,postgres,tailwind,vite,git)](https://alexrubio.dev)
 
 #### Also comfortable with
 
@@ -44,9 +45,7 @@ More details → **[alexrubio.dev](https://alexrubio.dev)**
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=94A3B8&center=true&vCenter=true&width=480&lines=Let's+build+something+cool;Open+to+opportunities+%26+freelance" alt="Let's talk" />
-</p>
+I also take on selected freelance projects, including landing pages.
 
 <p align="center">
   <a href="https://alexrubio.dev"><img src="https://img.shields.io/badge/alexrubio.dev-111827?style=flat-square" alt="Portfolio" /></a>
